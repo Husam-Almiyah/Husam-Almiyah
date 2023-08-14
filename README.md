@@ -17,6 +17,11 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 - 📫 How to reach me: husamalmiyah@gmail.com.
 - 😄 Fun fact: I play games and go to the GYM very often.
 
+#### Coding Time Stats
+
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/25af4e33-0098-4eb4-95eb-124487d9f369.svg)](https://wakatime.com/@25af4e33-0098-4eb4-95eb-124487d9f369)
+<!--END_SECTION:waka-->
 #### Top Technologies
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -29,12 +34,6 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husam-Almiyah" alt="watheqalshowaiter" /></a> </p>
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/25af4e33-0098-4eb4-95eb-124487d9f369.svg)](https://wakatime.com/@25af4e33-0098-4eb4-95eb-124487d9f369)
-<!--END_SECTION:waka-->
 
 #### Github Stats
 [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
