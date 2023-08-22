@@ -33,7 +33,9 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 [![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husam-Almiyah" alt="watheqalshowaiter" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husam-Almiyah" alt="watheqalshowaiter" /></a> </p> -->
+
+<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/be0145578940423aaafaa461b236153e.png?r=0op" width="400" alt="husam almiyah's Dev Card"/></a>
 
 #### Github Stats
 [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
