@@ -20,7 +20,7 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 #### Coding Time Stats
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/ab8601fe-873b-4db8-807c-cb698836c634.svg)](https://wakatime.com/@ab8601fe-873b-4db8-807c-cb698836c634)
+[![wakatime](https://wakatime.com/badge/user/25af4e33-0098-4eb4-95eb-124487d9f369.svg)](https://wakatime.com/@25af4e33-0098-4eb4-95eb-124487d9f369)
 <!--END_SECTION:waka-->
 #### Top Technologies
 
