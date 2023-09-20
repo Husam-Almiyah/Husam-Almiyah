@@ -1,0 +1,46 @@
+{
+"content": [
+    {
+        "label": "name",
+        "labelColor": "bright",
+        "value": "Husam Almiyah | Software Engineer",
+        "valueColor": "fgGreen"
+    },
+    {
+        "label": "title",
+        "labelColor": "bright",
+        "value": "Tech Lead",
+        "valueColor": "fgYellow"
+    },
+    {
+    "label": "github",
+    "labelColor": "bright",
+    "value": "https://github.com/Husam-Almiyah",
+    "valueColor": "fgBlue"
+    },
+    {
+        "label": "linkedIn",
+        "labelColor": "bright",
+        "value": "https://www.linkedin.com/in/husam-almiyah",
+        "valueColor": "fgBlue"
+    },
+    {
+        "label": "instagram",
+        "labelColor": "bright",
+        "value": "https://www.instagram.com/husam_almiyah",
+        "valueColor": "fgBlue"
+    },
+    {
+        "label": "Skills",
+        "labelColor": "bright",
+        "value": "PHP/Laravel, Javascript, Nodejs, Express, Vuejs, Bootstrap, Tailwindcss, Angular, CI/CD, Mysql, Sql Server, Gatsby, GitHub, Bitbucket, Git VCS, Trello, Jira",
+        "valueColor": "fgYellow"
+    },
+    {
+        "label": "Portfolio/Blog",
+        "labelColor": "bright",
+        "value": "https://byhusam.com",
+        "valueColor": "fgGreen"
+    }
+  ]
+}
