@@ -36,7 +36,8 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husam-Almiyah" alt="watheqalshowaiter" /></a> </p> -->
 
 <!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://github.com/Husam-Almiyah/Husam-Almiyah/blob/master/devcard.svg" width="400" alt="husam almiyah's Dev Card"/></a>-->
-<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/be0145578940423aaafaa461b236153e.png?r=ia9" width="400" alt="husam almiyah's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/be0145578940423aaafaa461b236153e.png?r=ia9" width="400" alt="husam almiyah's Dev Card"/></a>-->
+<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/v2/tzm5Q0glpyJUmUqhQyGFx.png?r=8j0&type=wide" width="652" alt="husam almiyah's Dev Card"/></a>
 
 #### Github Stats
 <!-- [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
