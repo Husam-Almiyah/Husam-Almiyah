@@ -5,7 +5,7 @@
 I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework. Proficient in PHP, HTML, CSS, JavaScript, and various database technologies. Skilled in building complex and scalable web applications. Passionate about creating clean, efficient, and userfriendly websites and applications. Committed to staying current with the latest web development technologies and trends.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Husam-Almiyah&label=Profile%20views&color=0e75b6&style=flat" alt="Husam-Almiyah" /> </p> -->
-<p><em>Software Engineer at <a href="https://famcare.app/">Famcare</a> & @SmartMind4sys<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://famcare.app/">Famcare</a> & @SmartMind4sys<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">
 
 :mailbox: Reach me out!
 
