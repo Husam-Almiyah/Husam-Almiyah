@@ -12,11 +12,11 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 [![Twitter Badge](https://img.shields.io/badge/-@Husam_Almiyah-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Husam_Almiyah)](https://twitter.com/Husam_Almiyah) [![Linkedin Badge](https://img.shields.io/badge/-Husam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husam-almiyah/) [![Mail Badge](https://img.shields.io/badge/-@Husam_almiyah-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/husam_almiyah/) [![Mail Badge](https://img.shields.io/badge/-Husam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:husamalmiyah@gmail.com)
 
 
-- 🔭 I’m currently working @SmartMind4sys
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: I’m currently working @SmartMind4sys
+<!--- 📫 Most used line of code `git commit -m "Initial Commit"`-->
 - ⚡ I’m focusing on writing clean, maintainable, and testable code.
-- 📫 How to reach me: husamalmiyah@gmail.com.
-- 😄 Fun fact: I play games and go to the GYM very often.
+<!--- 🔭 How to reach me: husamalmiyah@gmail.com.-->
+<!--- 😄 Fun fact: I play games and go to the GYM very often.-->
 
 #### Coding Time Stats
 
@@ -37,11 +37,11 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husam-Almiyah" alt="watheqalshowaiter" /></a> </p> -->
 
 <!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://github.com/Husam-Almiyah/Husam-Almiyah/blob/master/devcard.svg" width="400" alt="husam almiyah's Dev Card"/></a>-->
-<!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/be0145578940423aaafaa461b236153e.png?r=ia9" width="400" alt="husam almiyah's Dev Card"/></a>-->
-<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/v2/tzm5Q0glpyJUmUqhQyGFx.png?type=default&r=rns" width="356" alt="husam almiyah's Dev Card"/></a>
+<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/be0145578940423aaafaa461b236153e.png?r=ia9" width="400" alt="husam almiyah's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/v2/tzm5Q0glpyJUmUqhQyGFx.png?type=default&r=rns" width="356" alt="husam almiyah's Dev Card"/></a>-->
 
 #### Github Stats
-<!-- [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husam-Almiyah&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Husam-Almiyah" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husam-Almiyah&theme=tokyonight" alt="Husam-Almiyah" /></p> -->
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husam-Almiyah&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Husam-Almiyah" /></p>-->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husam-Almiyah&theme=tokyonight" alt="Husam-Almiyah" /></p> 
