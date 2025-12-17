@@ -41,7 +41,6 @@ I'm Husam Al-Miyah a Full stack web developer specializing in Laravel framework.
 <!--<a href="https://app.daily.dev/husam_almiyah"><img src="https://api.daily.dev/devcards/v2/tzm5Q0glpyJUmUqhQyGFx.png?type=default&r=rns" width="356" alt="husam almiyah's Dev Card"/></a>-->
 
 #### Github Stats
-<!-- [![Husam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+![Husam-Almiyah's Stats](https://github-readme-stats.vercel.app/api?username=Husam-Almiyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husam-Almiyah&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Husam-Almiyah" /></p>-->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husam-Almiyah&theme=tokyonight" alt="Husam-Almiyah" /></p> 
+![Husam-Almiyah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husam-Almiyah&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
